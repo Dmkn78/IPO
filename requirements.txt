@@ -1,0 +1,22 @@
+# Data Science & Statistical Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+plotly>=5.14.0
+
+# Data Processing
+openpyxl>=3.11.0  # Pour lire les fichiers Excel (.xlsx)
+xlrd>=2.0.1
+
+# Jupyter & Notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+
+# Utils
+python-dateutil>=2.8.0
