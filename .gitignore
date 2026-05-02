@@ -44,7 +44,7 @@ results/figures/*.jpeg
 results/figures/*.gif
 results/tables/*.csv
 results/tables/*.xlsx
-outputs/
+_archive_old/images/*
 *.cache
 
 # OS
